@@ -5,6 +5,7 @@ CONTENT PLAN
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - PHP FRAMEWORKS
 - Fundamental data structure
 - Python
