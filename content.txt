@@ -2,4 +2,6 @@ CONTENT PLAN
 HTML
 CSS
 JAVASCRIPT
+ * ES6
+ * Framework Javascript
 PHP FRAMEWORKS
