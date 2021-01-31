@@ -1,8 +1,12 @@
 CONTENT PLAN
-HTML
-CSS
-JAVASCRIPT
- * ES6
- * Framework Javascript
-PHP FRAMEWORKS
-Fundamental data structure
+- HTML
+- CSS
+- JAVASCRIPT
+  * ES6
+  * Framework Javascript
+    ^ Vue
+    ^ React
+- PHP FRAMEWORKS
+- Fundamental data structure
+- Python
+- C#
