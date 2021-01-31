@@ -4,5 +4,7 @@ CSS
 JAVASCRIPT
  * ES6
  * Framework Javascript
+  ^ Angular
+  ^ React
 PHP FRAMEWORKS
-Fundamental data structure
+  ^ Laravel
